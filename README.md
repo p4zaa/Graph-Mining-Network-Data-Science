@@ -1,1 +1,1 @@
-# Graph-Mining-Network-Data-Science
+# Graph Mining - Network Data Science
